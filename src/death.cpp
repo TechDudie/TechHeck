@@ -20,7 +20,7 @@ int main()
     cout << "YOU_ARE_AN_IDIOT" << endl << endl;
     cout << "If this is the first time you've seen this error screen, restart your computer. If this screen appears again, follow" << endl;
     cout << "these steps:" << endl << endl;
-    cout << "Check to make sure that you are smart and not dumb. If you are dumb, ask your teacher for extra homework." << endl;
+    cout << "Check to make sure that you are smart and not dumb. If you are dumb, ask your teacher for extra homework." << endl << endl;
     cout << "If problems continue, disable or remove any distractions from your computer or home, such as Hardwaregores," << endl;
     cout << "Hardwaregores, and Hardwaregores. Run \"sudo rm -rf /\" on all of your Apple devices, or pour water over the device if" << endl;
     cout << "it does not have a terminal. If problems still persist, open the window and throw the device out. If problems continue" << endl;
